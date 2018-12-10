@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-InstrumentedApp::Application.config.secret_key_base = '9cc822204e1eb9124853e62d1566f47c812456432666a5dedeb4d83b16b0dd3af5bb932fafd37223500426dbb0f8b6c365634187633311df4eccf4151191c5f8'
+InstrumentedApp::Application.config.secret_key_base = '7cf31b21ab804b6abe73ff91b9e5543889a3a949e08d5b0bc22f26bce2c1995fab6f22b52fae98bed8ca5aae7f00929fad2c3fca95b85063fd8072edf175c960'
